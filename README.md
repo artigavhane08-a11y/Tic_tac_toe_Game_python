@@ -11,5 +11,8 @@ A simple Tic Tac Toe game built using Python
 2. Run the file using:
    python tictactoe.py
 
-## Author
-Arti Gavhane
+
+## LinkedIn Post
+
+You can view my LinkedIn project post here:
+[Click to view LinkedIn Post]( https://www.linkedin.com/posts/arti-gavhane-37740b1aa_python-coding-bigginer-ugcPost-7432131442148761600-3iiq?utm_source=share&utm_medium=member_android&rcm=ACoAADDTnEsBXXnA-4Cp6vFsMW5T9J7QyqzqPl8).
